@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-13 03:48:59</sys_created_on>
+        <sys_id>c882ace11b7b3010a57896c6b04bcb20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_266401_incure_book.x_266401_incure.doctor</sys_name>
+        <sys_package display_value="InCure" source="x_266401_incure">5b51e8611b7b3010a57896c6b04bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InCure">5b51e8611b7b3010a57896c6b04bcb55</sys_scope>
+        <sys_security_acl display_value="x_266401_incure_book">8082ace11b7b3010a57896c6b04bcb1e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c882ace11b7b3010a57896c6b04bcb20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-13 03:48:59</sys_updated_on>
+        <sys_user_role display_value="x_266401_incure.doctor" name="x_266401_incure.doctor">308160a11b7b3010a57896c6b04bcbc3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

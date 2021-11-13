@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>priority-FieldLabel</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-13 03:49:18</sys_created_on>
+        <sys_id>a492ece11b7b3010a57896c6b04bcb7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority-FieldLabel</sys_name>
+        <sys_package display_value="InCure" source="x_266401_incure">5b51e8611b7b3010a57896c6b04bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InCure">5b51e8611b7b3010a57896c6b04bcb55</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_a492ece11b7b3010a57896c6b04bcb7b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-13 03:49:18</sys_updated_on>
+        <view_config display_value="Appointment Booking List Screen View Config">2892ece11b7b3010a57896c6b04bcb5e</view_config>
+        <view_template_slot display_value="text_04">5b4449fc41e35010f877183fc9b8be74</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

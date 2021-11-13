@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Appointment Booking Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Appointment Bookings">e492ece11b7b3010a57896c6b04bcbb4</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-13 03:49:19</sys_created_on>
+        <sys_id>a492ece11b7b3010a57896c6b04bcbb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Appointment Booking Item Stream Segment</sys_name>
+        <sys_package display_value="InCure" source="x_266401_incure">5b51e8611b7b3010a57896c6b04bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InCure">5b51e8611b7b3010a57896c6b04bcb55</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_a492ece11b7b3010a57896c6b04bcbb9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-13 03:49:19</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

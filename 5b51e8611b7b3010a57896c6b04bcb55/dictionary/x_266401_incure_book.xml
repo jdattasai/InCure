@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Appointment Booking" max_length="40" name="x_266401_incure_book" sizeclass="7" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date of Appointment" max_length="40" name="doa" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Slots" max_length="40" name="slots" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Morning" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Afternoon" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Evening" sequence="2" value="3"/>
+            </choice>
+        </element>
+    </element>
+</database>

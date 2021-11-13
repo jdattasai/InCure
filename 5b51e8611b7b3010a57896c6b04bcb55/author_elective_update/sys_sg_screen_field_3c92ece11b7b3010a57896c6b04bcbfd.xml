@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>state</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>20</order>
+        <record_id_field/>
+        <screen display_value="Details">e092ece11b7b3010a57896c6b04bcbb7</screen>
+        <screen_data_item_table>x_266401_incure_book</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-13 03:49:19</sys_created_on>
+        <sys_id>3c92ece11b7b3010a57896c6b04bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="InCure" source="x_266401_incure">5b51e8611b7b3010a57896c6b04bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InCure">5b51e8611b7b3010a57896c6b04bcb55</sys_scope>
+        <sys_update_name>sys_sg_screen_field_3c92ece11b7b3010a57896c6b04bcbfd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-13 03:49:19</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="InCure">5b51e8611b7b3010a57896c6b04bcb55</application>
+        <file_path/>
+        <instance_id>0e2880c41bd87c10e84d2f8dee4bcb81</instance_id>
+        <instance_name>dev117119</instance_name>
+        <name>sys_sg_screen_field_3c92ece11b7b3010a57896c6b04bcbfd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>state</data_item_field_name><field_name/><hidden>false</hidden><order>20</order><record_id_field/><screen display_value="Details">e092ece11b7b3010a57896c6b04bcbb7</screen><screen_data_item_table>x_266401_incure_book</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-13 03:49:19</sys_created_on><sys_id>3c92ece11b7b3010a57896c6b04bcbfd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>state</sys_name><sys_package display_value="InCure" source="x_266401_incure">5b51e8611b7b3010a57896c6b04bcb55</sys_package><sys_policy/><sys_scope display_value="InCure">5b51e8611b7b3010a57896c6b04bcb55</sys_scope><sys_update_name>sys_sg_screen_field_3c92ece11b7b3010a57896c6b04bcbfd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-13 03:49:19</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field></record_update>]]></payload>
+        <payload_hash>1713194261</payload_hash>
+        <record_name>state</record_name>
+        <reverted_from/>
+        <source>df51e8611b7b3010a57896c6b04bcb57</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-13 03:49:21</sys_created_on>
+        <sys_id>0d9220251b7b3010a57896c6b04bcbe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d1769fa1f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-13 03:49:21</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>85922025ac7b30109c0d4e7ee658b0e0</update_guid>
+        <update_guid_history>85922025ac7b30109c0d4e7ee658b0e0:1713194261</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-13 04:41:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>7cf9065988814089beb56b631eed3c79</sys_id>
+        <sys_metadata>3c92ece11b7b3010a57896c6b04bcbfd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="InCure" source="x_266401_incure">5b51e8611b7b3010a57896c6b04bcb55</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="InCure">5b51e8611b7b3010a57896c6b04bcb55</sys_scope>
+        <sys_scope_delete display_value="">01ec7b0bab29453e99a79438ec1cbc44</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_3c92ece11b7b3010a57896c6b04bcbfd</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_3c92ece11b7b3010a57896c6b04bcbfd">0d9220251b7b3010a57896c6b04bcbe0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-13 04:41:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
